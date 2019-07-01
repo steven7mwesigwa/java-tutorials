@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/multithreading-beginners/starting-threads/target/
+/multithreading-beginners/thread-synchronization/target/
+/multithreading-beginners/multiple-locks/target/
+/multithreading-beginners/thread-pools/target/
+/multithreading-beginners/countdown-latches/target/
+/multithreading-beginners/producer-consumer/target/
+/multithreading-beginners/wait-notify/target/
