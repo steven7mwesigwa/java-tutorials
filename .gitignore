@@ -29,3 +29,4 @@ hs_err_pid*
 /multithreading-beginners/producer-consumer/target/
 /multithreading-beginners/wait-notify/target/
 /project-lombok/getter-setter/target/
+/project-lombok/tostring/target/
