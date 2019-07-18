@@ -30,3 +30,5 @@ hs_err_pid*
 /multithreading-beginners/wait-notify/target/
 /project-lombok/getter-setter/target/
 /project-lombok/tostring/target/
+/project-lombok/allargsconstructor/allargsconstructor/target/
+/project-lombok/nonnull/target/
