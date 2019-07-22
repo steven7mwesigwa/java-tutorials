@@ -13,4 +13,9 @@ public class Person {
     private String lastname;
     private final int numberOfLegs = 2;
 
+    @Override
+    public String toString() {
+        return "Person{" + "firstname=" + firstname + ", lastname=" + lastname + ", numberOfLegs=" + numberOfLegs + '}';
+    }
+
 }
