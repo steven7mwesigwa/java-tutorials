@@ -1,4 +1,4 @@
-package com.stevenmwesigwa.value.demo1;
+package com.stevenmwesigwa.value.demo3;
 
 /**
  *
@@ -11,7 +11,6 @@ public class App {
      * @param args
      */
     public static void main(String[] args) {
-        Person person = new Person("Steven", "Mwesigwa", "585-51-6704");
-        System.out.println(person);
+        System.out.println(Person.of("Steven", "Mwesigwa", "585-51-6704"));
     }
 }

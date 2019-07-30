@@ -1,4 +1,4 @@
-package com.stevenmwesigwa.value.demo1;
+package com.stevenmwesigwa.value.demo2;
 
 /**
  *
