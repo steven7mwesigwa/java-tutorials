@@ -36,3 +36,4 @@ hs_err_pid*
 /project-lombok/value/target/
 /project-lombok/data/target/
 /functional-programming-with-streams/first-lambda-expression-for-beginners/target/
+/functional-programming-with-streams/sequential-data-processing-with-streams/target/

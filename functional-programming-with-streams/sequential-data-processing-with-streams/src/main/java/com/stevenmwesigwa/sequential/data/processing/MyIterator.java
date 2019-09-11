@@ -9,6 +9,10 @@ import java.util.Iterator;
  */
 public class MyIterator {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         
         Iterator<String> studentNames = Arrays.asList("Jimmie Foxx", "Samuel L. Jackson", "Sandra Bullock", "Keanu Reeves").iterator();

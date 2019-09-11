@@ -9,9 +9,13 @@ import java.util.List;
  */
 public class MyList {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         
-        List<String> studentNames = Arrays.asList("Jimmie Foxx", "Samuel L. Jackson", "Sandra Bullock", "Keanu Reeves");
+       final List<String> studentNames = Arrays.asList("Jimmie Foxx", "Samuel L. Jackson", "Sandra Bullock", "Keanu Reeves");
         
         for (String studentName : studentNames) {
             System.out.println(studentName);
